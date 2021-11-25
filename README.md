@@ -18,6 +18,6 @@
 
 ![image](https://user-images.githubusercontent.com/71881396/143409133-b402a41a-64a6-4e5d-9ef4-893e8c44785e.png)
 
-## Leaderboard baseline
+## Challenge baseline 찍기
 
 ![image](https://user-images.githubusercontent.com/71881396/143409578-793ca1a2-6893-403e-9655-3536abcba24b.png)
