@@ -10,9 +10,9 @@
 ![image](https://user-images.githubusercontent.com/71881396/143408928-41288b80-3272-485e-89b2-8ae5a433dbcd.png)
 
 ## 사용한 이미지 증강 방법
-전체 부분의 일부를 가림(eraser)
-이미지 뒤집기
-회전각도
+전체 부분의 일부를 가림(eraser) \n
+이미지 뒤집기  \n
+회전각도   \n
 
 ## 모델 훈련 
 
@@ -20,5 +20,4 @@
 
 ## Leaderboard baseline
 
-![image](https://user-images.githubusercontent.com/71881396/143409187-b1bda78a-6872-4bfd-9ea1-e9d2e9c66c26.png)
-
+![image](https://user-images.githubusercontent.com/71881396/143409578-793ca1a2-6893-403e-9655-3536abcba24b.png)
