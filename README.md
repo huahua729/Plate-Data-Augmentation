@@ -10,9 +10,9 @@
 ![image](https://user-images.githubusercontent.com/71881396/143408928-41288b80-3272-485e-89b2-8ae5a433dbcd.png)
 
 ## 사용한 이미지 증강 방법
-전체 부분의 일부를 가림(eraser) \n
-이미지 뒤집기  \n
-회전각도   \n
+전체 부분의 일부를 가림(eraser) +
+이미지 뒤집기  +
+회전각도   
 
 ## 모델 훈련 
 
