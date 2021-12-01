@@ -1,6 +1,8 @@
 # Plate-Data-Augmentation
 데이터가 부족한 문제점을 해결하기 위해 이미지 증강 방법을 적용해 데이터를 생서하는 알고리즘임
 
+## 동영상 LINK
+LINK: https://www.youtube.com/watch?v=3JjFjlRTM_o&t=1s
 ## DataSet
 국립원예특작과학원에서 제동하는 촬영 이미지(AI Hub)
 ![image](https://user-images.githubusercontent.com/71881396/143408851-eb94d88a-06b1-4f40-800b-66f8e57d63c8.png)
